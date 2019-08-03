@@ -25,8 +25,8 @@
         "lexxxurio/besimple-soap-common": "dev-master",
         "lexxxurio/besimple-soap-wsdl": "dev-master",
         "ass/xmlsecurity": "~1.0",
-        "symfony/framework-bundle": ">=2.6 <= 4.3",
-        "symfony/twig-bundle": "~2.6",
+        "symfony/framework-bundle": ">=2.6 <=4.3",
+        "symfony/twig-bundle": ">=2.6 <=4.3",
         "zendframework/zend-mime": "2.1.*"
     },
     "suggest": {
