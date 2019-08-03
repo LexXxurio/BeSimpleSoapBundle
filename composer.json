@@ -34,7 +34,7 @@
         "lexxxurio/besimple-soap-server": "dev-master"
     },
     "autoload": {
-        "psr-4": { "BeSimple\\SoapBundle": "src/" }
+        "psr-4": { "BeSimple\\SoapBundle\\": "src/" }
     },
     "extra": {
         "branch-alias": {
